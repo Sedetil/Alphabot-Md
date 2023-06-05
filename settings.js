@@ -63,9 +63,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Wanz-BOT" //namabot kalian
-global.ownername = "Wanz" //nama kalian
-global.myweb = "https://l.instagram.com/?u=https%3A%2F%2Ftopupwanzz.000webhostapp.com%2F&e=AT0U2_lYV0VgnlItB0TAtllDPCwFCJOAGhPRTQHFnDjOLoYnuXpkXvLIEEcw55O1AfXvU6AN-nIPCvfqUX7IWEbtRM0pI2Xn" //bebas asal jan hapus
+global.botname = "Wanz-BOT🗿" //namabot kalian
+global.ownername = "WANZ" //nama kalian
+global.myweb = "topupwanzz.000webhostapp.com" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@alwanpriyanto" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "alwanpriyanto@gmail.com" //bebas
@@ -82,7 +82,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
 global.background_welcome = "https://telegra.ph/file/755f1ff0722963d66be6e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = 'Wanz-BOT' + botname //sticker wm ubah
+global.packname = 'Wanz-BOT🗿' + botname //sticker wm ubah
 global.author = 'WANZ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
