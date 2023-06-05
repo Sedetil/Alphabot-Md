@@ -2640,7 +2640,6 @@ exports.primbonmenu = (prefix) =>{
 
 exports.stcmenu = (prefix) =>{
        return`乂 * 𝗧 𝗘 𝗟 𝗘 𝗚 𝗥 𝗔 𝗠  𝗦 𝗧 𝗜 𝗖 𝗞 𝗘 𝗥 *
-
 ☍ ${prefix}awoawo
 ☍ ${prefix}benedict
 ☍ ${prefix}chat
