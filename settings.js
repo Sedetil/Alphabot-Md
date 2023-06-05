@@ -12,22 +12,19 @@ global.OpenAIKey = "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" //login
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'api.lolhuman.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
-// Api LolHuman
-global.APIs = {
-   human: 'api.lolhuman.xyz',
-}
+
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'qcivYFbDeNzgDPY', // 👉 login https://api.zeeoneofc.my.id to get apikey
+
+   'api.lolhuman.xyz': 'd90cb050e7b2dbfef5244bfe', // API LolHuman
+
 }
 
-global.APIKeys = {
-   'api.lolhuman.xyz': 'd90cb050e7b2dbfef5244bfe', // API LolHuman
-}
+
 
 global.sewabotnya = `
 edit sewabot di file settings.js line 24
