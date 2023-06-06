@@ -12,13 +12,13 @@ global.OpenAIKey = "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" //login
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'api.lolhuman.xyz', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api.lolhuman.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'api.lolhuman.xyz': 'd90cb050e7b2dbfef5244bfe', // API LolHuman
+   'https://api.lolhuman.xyz': 'd90cb050e7b2dbfef5244bfe', // API LolHuman
 }
 
 
